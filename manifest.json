@@ -28,7 +28,7 @@
         "sizes": "512x512"
     }
   ],
-  "start_url": "dirindex.html",
+  "start_url": "/dirindex.html",
   "scope": "/dir",
   "display": "standalone",
   "orientation": "landscape",
